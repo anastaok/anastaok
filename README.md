@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi, everyone! My name is Anastasia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a beginner frontend developer 👩‍💻</h3>
+<h3 align="center">I am a beginner Frontend developer 👩‍💻</h3>
 
 
 ### Languages and Tools
