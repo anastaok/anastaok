@@ -10,4 +10,4 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/TELEGRAM-000?style=flat-square&logo=Telegram)](https://www.t.me/anasta_ok)
-[![Linkedin](https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=Linkedin)](https://linkedin.com/in/anastasiia-arzamastseva)
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=Linkedin)](https://linkedin.com/in/anasta-ok)
