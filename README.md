@@ -1,16 +1,13 @@
-### Hi there 👋
+### <h1 align="center">Hi, everyone! My name is Anastasia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am a beginner frontend developer 👩‍💻</h3>
 
-<!--
-**anastaok/anastaok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Languages and Tools
+![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000?style=flat-square&logo=JavaScript)
+![React](https://img.shields.io/badge/REACT-000?style=flat-square&logo=React)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow me
+[![Telegram](https://img.shields.io/badge/TELEGRAM-000?style=flat-square&logo=Telegram)](https://www.t.me/anasta_ok)
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=Linkedin)](https://linkedin.com/in/anastasiia-arzamastseva)
