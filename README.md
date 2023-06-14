@@ -6,6 +6,7 @@
 ![HTML](https://img.shields.io/badge/HTML-000?style=flat-square&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-000?style=flat-square&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000?style=flat-square&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000?style=flat-square&logo=TypeScript)
 ![React](https://img.shields.io/badge/REACT-000?style=flat-square&logo=React)
 
 
